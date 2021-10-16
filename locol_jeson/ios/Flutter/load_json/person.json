@@ -1,0 +1,29 @@
+[
+{
+    "name": "Ahmad Rza",
+    "age" :   "22",
+    "hight":  "172",
+    "gender": "male",
+    "hair_color":"black"
+},
+{
+    "name": "Ali Raza",
+    "age" :   "23",
+    "hight":  "152",
+    "gender": "male",
+    "hair_color":"brown"
+},
+{
+    "name": "Adnan",
+    "age" :   "21",
+    "hight":  "162",
+    "gender": "male",
+    "hair_color":"black"
+},{
+    "name": "Nabeel",
+    "age" :   "22",
+    "hight":  "152",
+    "gender": "male",
+    "hair_color":"black"
+}
+]

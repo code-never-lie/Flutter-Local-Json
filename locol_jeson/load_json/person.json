@@ -1,0 +1,32 @@
+[
+
+    {
+        "name":"Ahmad",
+        "age" :"12",
+        "hight":"172",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"Ali",
+        "age" :"12",
+        "hight":"172",
+        "gender":"male",
+        "hair_color":"brown"
+    },
+    {
+        "name":"adnan",
+        "age" :"12",
+        "hight":"172",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"Fizan",
+        "age" :"12",
+        "hight":"172",
+        "gender":"male",
+        "hair_color":"black"
+    }
+    
+]
